@@ -1,0 +1,19 @@
+body {
+    font-family: serif;
+    font-weight: normal;
+    margin: 11px;
+    color: #070719;
+    background-color: #EFFBFB;
+}
+
+form {
+    margin: 40px 0;
+}
+
+div {
+    margin: 0 50px;
+}
+
+input {
+    margin: 5px;
+}
